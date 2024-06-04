@@ -7,11 +7,13 @@ It is based on the [Gatling Maven Plugin demo, in Java](https://github.com/gatli
 
 On Linux / MacOS:
 ```console
+export api_key=your token
 ./mvnw gatling:test
 ```
 
 On Windows:
 ```console
+set api_key=your token
 mvnw.cmd gatling:test
 ```
 
