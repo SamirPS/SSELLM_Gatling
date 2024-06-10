@@ -1,7 +1,4 @@
-# Gatling Bundle
-
-The Gatling Bundle gives you a quick start to your Gatling journey.
-It is based on the [Gatling Maven Plugin demo, in Java](https://github.com/gatling/gatling-maven-plugin-demo-java).
+# SSELLM
 
 ## Run a test locally
 
